@@ -1,1 +1,3 @@
 Projectg to made in IV semester using REact and Django.
+
+It is built in IV sem of college as a minor Project.
